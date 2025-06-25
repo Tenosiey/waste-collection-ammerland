@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime, timedelta
+from uuid import uuid4
 
 # URL to the JSON file
 url = "https://firebasestorage.googleapis.com/v0/b/abfall-ammerland.appspot.com/o/and%2F5%2Fawbapp.json?alt=media"
@@ -78,8 +79,32 @@ def display_abfalltermine(collection_days):
     if collection_days:
         for type, date in sorted(collection_days, key=lambda x: x[1]):
             print(f"{type}: {date.strftime('%Y-%m-%d')}")
+        save_abfalltermine_to_ics(collection_days)
     else:
         print("No waste collection dates found.")
+
+# Function to save waste collection dates to an ICS calendar file
+def save_abfalltermine_to_ics(collection_days, filename="waste_collection.ics"):
+    header = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Waste Collection//EN\n"
+    events = []
+    for abfall_type, date in sorted(collection_days, key=lambda x: x[1]):
+        start = date.strftime("%Y%m%d")
+        end = (date + timedelta(days=1)).strftime("%Y%m%d")
+        uid = str(uuid4())
+        event = (
+            "BEGIN:VEVENT\n"
+            f"UID:{uid}\n"
+            f"DTSTAMP:{datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}\n"
+            f"SUMMARY:{abfall_type}\n"
+            f"DTSTART;VALUE=DATE:{start}\n"
+            f"DTEND;VALUE=DATE:{end}\n"
+            "END:VEVENT\n"
+        )
+        events.append(event)
+    footer = "END:VCALENDAR\n"
+    with open(filename, "w") as f:
+        f.write(header + "".join(events) + footer)
+    print(f"Saved waste collection dates to {filename}")
 
 # Function to retrieve waste collection dates from waste_entries
 def get_waste_dates(waste_entries):
