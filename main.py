@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 from uuid import uuid4
 
 # URL to the JSON file
@@ -94,7 +94,7 @@ def save_abfalltermine_to_ics(collection_days, filename="waste_collection.ics"):
         event = (
             "BEGIN:VEVENT\n"
             f"UID:{uid}\n"
-            f"DTSTAMP:{datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}\n"
+            f"DTSTAMP:{datetime.now(UTC).strftime('%Y%m%dT%H%M%SZ')}\n"
             f"SUMMARY:{abfall_type}\n"
             f"DTSTART;VALUE=DATE:{start}\n"
             f"DTEND;VALUE=DATE:{end}\n"
