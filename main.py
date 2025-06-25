@@ -84,7 +84,7 @@ def display_abfalltermine(collection_days):
         print("No waste collection dates found.")
 
 # Function to save waste collection dates to an ICS calendar file
-def save_abfalltermine_to_ics(collection_days, filename="waste_collection.ics"):
+def save_abfalltermine_to_ics(collection_days, filename="calenders/waste_collection.ics"):
     header = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Waste Collection//EN\n"
     events = []
     for abfall_type, date in sorted(collection_days, key=lambda x: x[1]):
