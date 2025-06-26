@@ -1,0 +1,2412 @@
+[
+	{
+		"id": 1,
+		"ortid": 1,
+		"ot": "",
+		"firma": "FEPA Baustoffe GmbH",
+		"str": "An der Wiek 6",
+		"zusatz": "",
+		"geolat": 53.216532,
+		"geolng": 7.802528
+	},
+	{
+		"id": 2,
+		"ortid": 1,
+		"ot": "",
+		"firma": "Autohaus Tietjen",
+		"str": "Hauptstr. 115",
+		"zusatz": "",
+		"geolat": 53.223355,
+		"geolng": 7.812744
+	},
+	{
+		"id": 3,
+		"ortid": 1,
+		"ot": "",
+		"firma": "Apotheke Apen",
+		"str": "Hauptstr. 186",
+		"zusatz": "",
+		"geolat": 53.21871,
+		"geolng": 7.807168
+	},
+	{
+		"id": 4,
+		"ortid": 1,
+		"ot": "",
+		"firma": "Markant-Markt",
+		"str": "Hauptstr. 199",
+		"zusatz": "",
+		"geolat": 53.219296,
+		"geolng": 7.806499
+	},
+	{
+		"id": 5,
+		"ortid": 1,
+		"ot": "",
+		"firma": "Gemeinde Apen Rathaus, B\u00fcrgerb\u00fcro",
+		"str": "Hauptstr. 200",
+		"zusatz": "",
+		"geolat": 53.218331,
+		"geolng": 7.806473
+	},
+	{
+		"id": 6,
+		"ortid": 1,
+		"ot": "Hengstforde",
+		"firma": "Raiffeisenmarkt Apen-Augustfehn",
+		"str": "Hauptstr. 311",
+		"zusatz": "",
+		"geolat": 53.21852,
+		"geolng": 7.78544
+	},
+	{
+		"id": 8,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "Elektro Weeken, Augustfehn",
+		"str": "Hauptstr. 491",
+		"zusatz": "",
+		"geolat": 53.216879,
+		"geolng": 7.759567
+	},
+	{
+		"id": 9,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "Fehn-Apotheke, Augustfehn",
+		"str": "M\u00fchlenstr. 1b",
+		"zusatz": "",
+		"geolat": 53.216912,
+		"geolng": 7.758525
+	},
+	{
+		"id": 11,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "Marien-Apotheke, Augustfehn",
+		"str": "Poststr. 11",
+		"zusatz": "",
+		"geolat": 53.220416,
+		"geolng": 7.759125
+	},
+	{
+		"id": 12,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "EDEKA-Markt",
+		"str": "Stahlwerkstr. 15",
+		"zusatz": "",
+		"geolat": 53.21832,
+		"geolng": 7.76182
+	},
+	{
+		"id": 13,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "Farbenhaus M\u00f6hlmann, Augustfehn",
+		"str": "Stahlwerkstr. 98",
+		"zusatz": "",
+		"geolat": 53.23512,
+		"geolng": 7.76535
+	},
+	{
+		"id": 16,
+		"ortid": 1,
+		"ot": "Aperberg",
+		"firma": "rhp Recycling Weser-Ems, Kfz-Betrieb, Aperberg",
+		"str": "Turmstr. 2 / Aperberger Str.",
+		"zusatz": "",
+		"geolat": 53.20735,
+		"geolng": 7.79388
+	},
+	{
+		"id": 17,
+		"ortid": 2,
+		"ot": "",
+		"firma": "Gemeinde Bad Zwischenahn Rathaus",
+		"str": "Am Brink 9",
+		"zusatz": "",
+		"geolat": 53.18674,
+		"geolng": 8.00489
+	},
+	{
+		"id": 19,
+		"ortid": 2,
+		"ot": "Ekern",
+		"firma": "Hagebaumarkt Bad Zwischenahn",
+		"str": "Edewechter Str. 4",
+		"zusatz": "",
+		"geolat": 53.17067,
+		"geolng": 7.99907
+	},
+	{
+		"id": 20,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "Apotheke Rostrup",
+		"str": "Elmendorfer Str. 20 a",
+		"zusatz": "",
+		"geolat": 53.192648,
+		"geolng": 7.986026
+	},
+	{
+		"id": 21,
+		"ortid": 2,
+		"ot": "Ofen",
+		"firma": "EDEKA-Markt Ofen",
+		"str": "Heideweg 2",
+		"zusatz": "",
+		"geolat": 53.16663,
+		"geolng": 8.156532
+	},
+	{
+		"id": 23,
+		"ortid": 2,
+		"ot": "",
+		"firma": "Raiffeisenmarkt",
+		"str": "Langenhof 20",
+		"zusatz": "",
+		"geolat": 53.181343,
+		"geolng": 8.004126
+	},
+	{
+		"id": 24,
+		"ortid": 2,
+		"ot": "",
+		"firma": "Damianus Apotheke",
+		"str": "Langenhof 22",
+		"zusatz": "",
+		"geolat": 53.181986,
+		"geolng": 8.004368
+	},
+	{
+		"id": 25,
+		"ortid": 2,
+		"ot": "Petersfehn I",
+		"firma": "Baustoffe Landhandel K. Bakenhus, Petersfehn",
+		"str": "Mittellinie 70",
+		"zusatz": "",
+		"geolat": 53.1391,
+		"geolng": 8.11638
+	},
+	{
+		"id": 26,
+		"ortid": 2,
+		"ot": "Petersfehn I",
+		"firma": "B\u00e4ckerei Heudeb\u00fclt, Petersfehn",
+		"str": "Mittellinie 74",
+		"zusatz": "",
+		"geolat": 53.1392,
+		"geolng": 8.11462
+	},
+	{
+		"id": 27,
+		"ortid": 2,
+		"ot": "Petersfehn I",
+		"firma": "Apotheke Petersfehn",
+		"str": "Mittellinie 77 c",
+		"zusatz": "",
+		"geolat": 53.13942,
+		"geolng": 8.11137
+	},
+	{
+		"id": 28,
+		"ortid": 2,
+		"ot": "",
+		"firma": "AZ Autoteile Siefken / B\u00fcsselmann",
+		"str": "M\u00fchlenstr. 22",
+		"zusatz": "",
+		"geolat": 53.1826,
+		"geolng": 7.99793
+	},
+	{
+		"id": 29,
+		"ortid": 2,
+		"ot": "",
+		"firma": "Alte Apotheke",
+		"str": "Peterstr. 23",
+		"zusatz": "",
+		"geolat": 53.18454,
+		"geolng": 8.00599
+	},
+	{
+		"id": 30,
+		"ortid": 2,
+		"ot": "",
+		"firma": "Rats-Apotheke",
+		"str": "Peterstr. 5",
+		"zusatz": "",
+		"geolat": 53.1859,
+		"geolng": 8.00426
+	},
+	{
+		"id": 31,
+		"ortid": 2,
+		"ot": "Ofen",
+		"firma": "Apotheke Ofen",
+		"str": "Ramsauerstr. 4",
+		"zusatz": "",
+		"geolat": 53.168508,
+		"geolng": 8.147023
+	},
+	{
+		"id": 32,
+		"ortid": 2,
+		"ot": "",
+		"firma": "EDEKA-Markt",
+		"str": "Reihdamm 10",
+		"zusatz": "",
+		"geolat": 53.180472,
+		"geolng": 7.997367
+	},
+	{
+		"id": 33,
+		"ortid": 2,
+		"ot": "",
+		"firma": "M\u00fchlen-Apotheke",
+		"str": "Westersteder Str. 2",
+		"zusatz": "",
+		"geolat": 53.190184,
+		"geolng": 7.98172
+	},
+	{
+		"id": 34,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "EDEKA-Markt Rostrup",
+		"str": "Westersteder Str. 3",
+		"zusatz": "",
+		"geolat": 53.19173,
+		"geolng": 7.98151
+	},
+	{
+		"id": 35,
+		"ortid": 3,
+		"ot": "",
+		"firma": "EDEKA-Neukauf-Markt",
+		"str": "Bahnhofstr. 16",
+		"zusatz": "",
+		"geolat": 53.127468,
+		"geolng": 7.980239
+	},
+	{
+		"id": 36,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Elektro Vogel",
+		"str": "Bahnhofstr. 2",
+		"zusatz": "",
+		"geolat": 53.12704,
+		"geolng": 7.98288
+	},
+	{
+		"id": 37,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "Elektro - Installation H. Beckh\u00e4user u. Sohn, Friedrichsfehn",
+		"str": "Friedrichsfehner Str. 24",
+		"zusatz": "",
+		"geolat": 53.1248,
+		"geolng": 8.09325
+	},
+	{
+		"id": 39,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "EDEKA Markt Bruns GmbH Friedrichsfehn",
+		"str": "Friedrichsfehner Str. 3a",
+		"zusatz": "",
+		"geolat": 53.12394,
+		"geolng": 8.08641
+	},
+	{
+		"id": 40,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "AVIA - Tankstellenbetrieb Frank Schr\u00f6der, Friedrichsfehn",
+		"str": "Friedrichsfehner Str. 42",
+		"zusatz": "",
+		"geolat": 53.124577,
+		"geolng": 8.095839
+	},
+	{
+		"id": 41,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Raiffeisenmarkt Edewecht",
+		"str": "G\u00fcterstr. 4",
+		"zusatz": "",
+		"geolat": 53.11822,
+		"geolng": 7.96289
+	},
+	{
+		"id": 42,
+		"ortid": 3,
+		"ot": "",
+		"firma": "REWE-Markt",
+		"str": "Hauptstr. 101",
+		"zusatz": "",
+		"geolat": 53.120885,
+		"geolng": 7.974478
+	},
+	{
+		"id": 43,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Nikolai - Apotheke",
+		"str": "Hauptstr. 35",
+		"zusatz": "",
+		"geolat": 53.13253,
+		"geolng": 7.98602
+	},
+	{
+		"id": 44,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Combi-Verbrauchermarkt",
+		"str": "Hauptstr. 36",
+		"zusatz": "",
+		"geolat": 53.131412,
+		"geolng": 7.988437
+	},
+	{
+		"id": 45,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Alte Apotheke",
+		"str": "Hauptstr. 88",
+		"zusatz": "",
+		"geolat": 53.12441,
+		"geolng": 7.98064
+	},
+	{
+		"id": 46,
+		"ortid": 3,
+		"ot": "",
+		"firma": "M\u00fchle Joosten",
+		"str": "Holljestr. 11",
+		"zusatz": "",
+		"geolat": 53.12351,
+		"geolng": 7.98464
+	},
+	{
+		"id": 47,
+		"ortid": 3,
+		"ot": "Jeddeloh II",
+		"firma": "Zweibr\u00fccken-Caf\u00e9, Jeddeloh",
+		"str": "Kirchweg 2",
+		"zusatz": "",
+		"geolat": 53.090414,
+		"geolng": 8.053997
+	},
+	{
+		"id": 48,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Gemeinde Edewecht Rathaus",
+		"str": "Rathausstr. 7",
+		"zusatz": "",
+		"geolat": 53.12918,
+		"geolng": 7.98154
+	},
+	{
+		"id": 49,
+		"ortid": 3,
+		"ot": "Edewecht-S\u00fcd",
+		"firma": "Dettmers Elektro",
+		"str": "Schepser Damm 3a",
+		"zusatz": "",
+		"geolat": 53.11788,
+		"geolng": 7.96353
+	},
+	{
+		"id": 50,
+		"ortid": 3,
+		"ot": "",
+		"firma": "Hubertus Apotheke",
+		"str": "Sch\u00fctzenhofstr. 1",
+		"zusatz": "",
+		"geolat": 53.12121,
+		"geolng": 7.97525
+	},
+	{
+		"id": 51,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "Apotheke Friedrichsfehn",
+		"str": "Waldblick 2",
+		"zusatz": "",
+		"geolat": 53.12581,
+		"geolng": 8.09677
+	},
+	{
+		"id": 52,
+		"ortid": 4,
+		"ot": "Loy",
+		"firma": "Gr\u00f6ning Lebensmittel, Loy",
+		"str": "Braker Chaussee 311",
+		"zusatz": "",
+		"geolat": 53.23417,
+		"geolng": 8.27114
+	},
+	{
+		"id": 53,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "Auto Horn, Wahnbek",
+		"str": "Am Nordkreuz 10",
+		"zusatz": "",
+		"geolat": 53.20939,
+		"geolng": 8.22856
+	},
+	{
+		"id": 54,
+		"ortid": 4,
+		"ot": "Loy",
+		"firma": "Raiffeisenmarkt Loy",
+		"str": "An der Braker Bahn 9",
+		"zusatz": "",
+		"geolat": 53.225253,
+		"geolng": 8.256576
+	},
+	{
+		"id": 55,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Rats Apotheke",
+		"str": "Anton-G\u00fcnther Str. 21",
+		"zusatz": "",
+		"geolat": 53.24935,
+		"geolng": 8.19509
+	},
+	{
+		"id": 56,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Park Apotheke",
+		"str": "Bahnhofstr. 16",
+		"zusatz": "",
+		"geolat": 53.24514,
+		"geolng": 8.19441
+	},
+	{
+		"id": 57,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "Apotheke Wahnbek",
+		"str": "Butjadinger Str. 46",
+		"zusatz": "",
+		"geolat": 53.20393,
+		"geolng": 8.245457
+	},
+	{
+		"id": 59,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "Happy-Shop Wahnbek",
+		"str": "Elbestr. 2",
+		"zusatz": "",
+		"geolat": 53.20654,
+		"geolng": 8.24091
+	},
+	{
+		"id": 60,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "Frank Neubert Elektrotechnik, Wahnbek",
+		"str": "Wapelstra\u00dfe 9 a",
+		"zusatz": "",
+		"geolat": 53.206987,
+		"geolng": 8.23152
+	},
+	{
+		"id": 61,
+		"ortid": 4,
+		"ot": "",
+		"firma": "ELEKTRO Seghorn GmbH",
+		"str": "Kleibroker Str. 119",
+		"zusatz": "",
+		"geolat": 53.26084,
+		"geolng": 8.204617
+	},
+	{
+		"id": 62,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Heinemann & Bohmann Ammerland Entsorgungsgesellschaft mbH & Co.KG",
+		"str": "Kleibroker Str. 99",
+		"zusatz": "",
+		"geolat": 53.25936,
+		"geolng": 8.20267
+	},
+	{
+		"id": 63,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Raiffeisenmarkt Rastede",
+		"str": "Ladestr. 30",
+		"zusatz": "",
+		"geolat": 53.24591,
+		"geolng": 8.19153
+	},
+	{
+		"id": 64,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Ellern Apotheke",
+		"str": "Oldenburger Str. 257",
+		"zusatz": "",
+		"geolat": 53.249,
+		"geolng": 8.19749
+	},
+	{
+		"id": 65,
+		"ortid": 4,
+		"ot": "Hankhausen",
+		"firma": "Fa. St\u00fcckemann, Hankhausen",
+		"str": "Oldenburger Str. 76",
+		"zusatz": "",
+		"geolat": 53.228403,
+		"geolng": 8.212255
+	},
+	{
+		"id": 66,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Gemeinde Rastede Rathaus",
+		"str": "Sophienstr. 27",
+		"zusatz": "",
+		"geolat": 53.24882,
+		"geolng": 8.19387
+	},
+	{
+		"id": 67,
+		"ortid": 4,
+		"ot": "Nethen",
+		"firma": "Fa. D\u00fcnne, Nethen",
+		"str": "Wiefelsteder Str. 119",
+		"zusatz": "",
+		"geolat": 53.27968,
+		"geolng": 8.14701
+	},
+	{
+		"id": 68,
+		"ortid": 4,
+		"ot": "Hahn",
+		"firma": "Menkes Ellern-Apotheke, Hahn",
+		"str": "Wilhelmshavener Str. 211",
+		"zusatz": "",
+		"geolat": 53.29066,
+		"geolng": 8.16327
+	},
+	{
+		"id": 69,
+		"ortid": 4,
+		"ot": "Hahn-Lehmden",
+		"firma": "EDEKA-Markt, Hahn-Lehmden",
+		"str": "Wilhelmshavener Str. 213",
+		"zusatz": "",
+		"geolat": 53.29103,
+		"geolng": 8.16358
+	},
+	{
+		"id": 70,
+		"ortid": 4,
+		"ot": "Hahn",
+		"firma": "Raiffeisenmarkt Hahn",
+		"str": "Zur Waage 4",
+		"zusatz": "",
+		"geolat": 53.289725,
+		"geolng": 8.165313
+	},
+	{
+		"id": 71,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Kopernikus Apotheke",
+		"str": "Am Esch 7",
+		"zusatz": "",
+		"geolat": 53.260002,
+		"geolng": 7.933494
+	},
+	{
+		"id": 72,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Famila Verbrauchermarkt",
+		"str": "Am Esch 7",
+		"zusatz": "",
+		"geolat": 53.260002,
+		"geolng": 7.933494
+	},
+	{
+		"id": 73,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Stadt Westerstede Rathaus",
+		"str": "Am Markt 2",
+		"zusatz": "",
+		"geolat": 53.25761,
+		"geolng": 7.92698
+	},
+	{
+		"id": 74,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Landkreis Ammerland Kreishaus",
+		"str": "Ammerlandallee 12",
+		"zusatz": "",
+		"geolat": 53.25578,
+		"geolng": 7.93495
+	},
+	{
+		"id": 75,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Elektrotechnik Detlef Coldewey GmbH",
+		"str": "Burgstr. 6",
+		"zusatz": "",
+		"geolat": 53.26877,
+		"geolng": 7.93971
+	},
+	{
+		"id": 76,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "M\u00fchlen - Apotheke, Ocholt",
+		"str": "Godensholter Str. 5",
+		"zusatz": "",
+		"geolat": 53.20146,
+		"geolng": 7.88402
+	},
+	{
+		"id": 77,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "Tankshop u. Autoservice Inh. Taxi Meyer, Ocholt",
+		"str": "Godensholter Str. 8",
+		"zusatz": "",
+		"geolat": 53.201212,
+		"geolng": 7.88428
+	},
+	{
+		"id": 78,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Markant-Markt Kapels",
+		"str": "Goethestr. 21",
+		"zusatz": "",
+		"geolat": 53.251466,
+		"geolng": 7.939971
+	},
+	{
+		"id": 81,
+		"ortid": 5,
+		"ot": "",
+		"firma": "EDEKA-Neukauf-Markt",
+		"str": "Kuhlenstr. 51",
+		"zusatz": "",
+		"geolat": 53.253926,
+		"geolng": 7.917561
+	},
+	{
+		"id": 82,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Ammerland Apotheke",
+		"str": "Lange Str. 25",
+		"zusatz": "",
+		"geolat": 53.25775,
+		"geolng": 7.92324
+	},
+	{
+		"id": 83,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Workshop Westerstede",
+		"str": "Lange Str. 6",
+		"zusatz": "",
+		"geolat": 53.2571,
+		"geolng": 7.92573
+	},
+	{
+		"id": 84,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Ziese Bauzentrum Hagebaumarkt",
+		"str": "Langebr\u00fcgger Str. 21",
+		"zusatz": "",
+		"geolat": 53.261913,
+		"geolng": 7.942353
+	},
+	{
+		"id": 85,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Peter Apotheke",
+		"str": "Peterstr. 29",
+		"zusatz": "",
+		"geolat": 53.25412,
+		"geolng": 7.92772
+	},
+	{
+		"id": 86,
+		"ortid": 5,
+		"ot": "Eggeloge",
+		"firma": "Raiffeisengenossenschaft Eggeloge",
+		"str": "Raiffeisenstr. 5",
+		"zusatz": "",
+		"geolat": 53.3026,
+		"geolng": 7.95011
+	},
+	{
+		"id": 87,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "Elektro H. Padeken, Ocholt",
+		"str": "Westring 17",
+		"zusatz": "",
+		"geolat": 53.20387,
+		"geolng": 7.881025
+	},
+	{
+		"id": 88,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "EDEKA-Markt Masla Ocholt",
+		"str": "Westring 4a",
+		"zusatz": "",
+		"geolat": 53.202958,
+		"geolng": 7.884247
+	},
+	{
+		"id": 89,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Raiffeisenmarkt",
+		"str": "Wilhelm-Geiler-Str. 16",
+		"zusatz": "",
+		"geolat": 53.252872,
+		"geolng": 7.931009
+	},
+	{
+		"id": 90,
+		"ortid": 5,
+		"ot": "",
+		"firma": "Westersteder Autoteile Vertrieb (WAV)",
+		"str": "Wilhelm-Geiler-Str. 17",
+		"zusatz": "",
+		"geolat": 53.251998,
+		"geolng": 7.930724
+	},
+	{
+		"id": 91,
+		"ortid": 6,
+		"ot": "Heidkamp",
+		"firma": "Malerbetrieb Rohde, Heidkamp",
+		"str": "Alter Postweg 35",
+		"zusatz": "",
+		"geolat": 53.18901,
+		"geolng": 8.15445
+	},
+	{
+		"id": 94,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Alte Apotheke",
+		"str": "Hauptstr. 15a",
+		"zusatz": "",
+		"geolat": 53.25757,
+		"geolng": 8.11579
+	},
+	{
+		"id": 96,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Elektro Eilers",
+		"str": "Hauptstr. 26",
+		"zusatz": "",
+		"geolat": 53.25672,
+		"geolng": 8.11565
+	},
+	{
+		"id": 97,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Autohaus Bruns GmbH",
+		"str": "K\u00f6nigstr. 1",
+		"zusatz": "",
+		"geolat": 53.240425,
+		"geolng": 8.165364
+	},
+	{
+		"id": 98,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Elektro Hohenfeld & Rother",
+		"str": "Hauptstr. 41",
+		"zusatz": "",
+		"geolat": 53.25353,
+		"geolng": 8.11738
+	},
+	{
+		"id": 99,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Gemeinde Wiefelstede Rathaus",
+		"str": "Kirchstr. 1",
+		"zusatz": "",
+		"geolat": 53.25603,
+		"geolng": 8.1149
+	},
+	{
+		"id": 102,
+		"ortid": 6,
+		"ot": "Metjendorf",
+		"firma": "Metjendorfer Apotheke",
+		"str": "Metjendorfer Landstr. 6a",
+		"zusatz": "",
+		"geolat": 53.186949,
+		"geolng": 8.167169
+	},
+	{
+		"id": 103,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Raiffeisenmarkt Wiefelstede",
+		"str": "M\u00fchlenstr. 2",
+		"zusatz": "",
+		"geolat": 53.25655,
+		"geolng": 8.11648
+	},
+	{
+		"id": 104,
+		"ortid": 6,
+		"ot": "Metjendorf",
+		"firma": "EDEKA Husmann Mein Markt, Metjendorf",
+		"str": "Ofenerfelder Str. 1a",
+		"zusatz": "",
+		"geolat": 53.18943,
+		"geolng": 8.177553
+	},
+	{
+		"id": 105,
+		"ortid": 6,
+		"ot": "Spohle",
+		"firma": "Raiffeisenmarkt Spohle",
+		"str": "Raiffeisenstr. 2",
+		"zusatz": "",
+		"geolat": 53.304277,
+		"geolng": 8.057454
+	},
+	{
+		"id": 106,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Raiffeisenwarengenossenschaft",
+		"str": "Stahlstr. 35",
+		"zusatz": "",
+		"geolat": 53.24581,
+		"geolng": 8.12162
+	},
+	{
+		"id": 108,
+		"ortid": 6,
+		"ot": "Spohle",
+		"firma": "Installation G. H\u00fclsebusch, Spohle",
+		"str": "Wiefelsteder Str. 12",
+		"zusatz": "",
+		"geolat": 53.30633,
+		"geolng": 8.06341
+	},
+	{
+		"id": 109,
+		"ortid": 6,
+		"ot": "Spohle",
+		"firma": "Hinz Bunjes GmbH, Spohle",
+		"str": "Wiefelsteder Str. 13",
+		"zusatz": "",
+		"geolat": 53.30613,
+		"geolng": 8.06207
+	},
+	{
+		"id": 110,
+		"ortid": 1,
+		"ot": "",
+		"firma": "",
+		"str": "Am M\u00fchlenbach",
+		"zusatz": "",
+		"geolat": 53.227233,
+		"geolng": 7.813338
+	},
+	{
+		"id": 111,
+		"ortid": 1,
+		"ot": "",
+		"firma": "",
+		"str": "An der Norderb\u00e4ke",
+		"zusatz": "",
+		"geolat": 53.223468,
+		"geolng": 7.806222
+	},
+	{
+		"id": 112,
+		"ortid": 1,
+		"ot": "",
+		"firma": "",
+		"str": "Hoher Esch",
+		"zusatz": "",
+		"geolat": 53.219331,
+		"geolng": 7.813242
+	},
+	{
+		"id": 113,
+		"ortid": 1,
+		"ot": "",
+		"firma": "",
+		"str": "Am Viehmarktplatz",
+		"zusatz": "Hauptstra\u00dfe",
+		"geolat": 53.218049,
+		"geolng": 7.801787
+	},
+	{
+		"id": 114,
+		"ortid": 1,
+		"ot": "Aperberg",
+		"firma": "",
+		"str": "Am Kirchweg",
+		"zusatz": "",
+		"geolat": 53.211137,
+		"geolng": 7.799504
+	},
+	{
+		"id": 115,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "",
+		"str": "Am Dock",
+		"zusatz": "",
+		"geolat": 53.221522,
+		"geolng": 7.757491
+	},
+	{
+		"id": 116,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "",
+		"str": "Am Kanal",
+		"zusatz": "",
+		"geolat": 53.237494,
+		"geolng": 7.767592
+	},
+	{
+		"id": 117,
+		"ortid": 1,
+		"ot": "Augustfehn III",
+		"firma": "",
+		"str": "Am Kanal",
+		"zusatz": "Hausnummer 184",
+		"geolat": 53.250789,
+		"geolng": 7.790398
+	},
+	{
+		"id": 118,
+		"ortid": 1,
+		"ot": "Augustfehn",
+		"firma": "",
+		"str": "Industriestra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.218578,
+		"geolng": 7.769504
+	},
+	{
+		"id": 119,
+		"ortid": 1,
+		"ot": "Vreschen-Bokel",
+		"firma": "",
+		"str": "Platanenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.225846,
+		"geolng": 7.754864
+	},
+	{
+		"id": 120,
+		"ortid": 1,
+		"ot": "Godensholt",
+		"firma": "",
+		"str": "Birkhahnweg",
+		"zusatz": "",
+		"geolat": 53.184162,
+		"geolng": 7.819436
+	},
+	{
+		"id": 121,
+		"ortid": 1,
+		"ot": "Godensholt",
+		"firma": "",
+		"str": "Zum Bahnsteig",
+		"zusatz": "",
+		"geolat": 53.178077,
+		"geolng": 7.820471
+	},
+	{
+		"id": 122,
+		"ortid": 1,
+		"ot": "Godensholterweg",
+		"firma": "",
+		"str": "Lilienweg",
+		"zusatz": "",
+		"geolat": 53.199152,
+		"geolng": 7.815356
+	},
+	{
+		"id": 123,
+		"ortid": 1,
+		"ot": "Hengstforde",
+		"firma": "",
+		"str": "Burgstra\u00dfe",
+		"zusatz": "Bauhof",
+		"geolat": 53.220779,
+		"geolng": 7.776011
+	},
+	{
+		"id": 124,
+		"ortid": 1,
+		"ot": "Nordloh",
+		"firma": "",
+		"str": "Am Kreuzkamp",
+		"zusatz": "",
+		"geolat": 53.180488,
+		"geolng": 7.777968
+	},
+	{
+		"id": 125,
+		"ortid": 1,
+		"ot": "Nordloh",
+		"firma": "",
+		"str": "Deichweg",
+		"zusatz": "",
+		"geolat": 53.197897,
+		"geolng": 7.760621
+	},
+	{
+		"id": 126,
+		"ortid": 1,
+		"ot": "Tange",
+		"firma": "",
+		"str": "Hauptstra\u00dfe",
+		"zusatz": "bei der Feuerwehr",
+		"geolat": 53.180804,
+		"geolng": 7.746023
+	},
+	{
+		"id": 127,
+		"ortid": 1,
+		"ot": "Vreschen-Bokel",
+		"firma": "",
+		"str": "Hauptstra\u00dfe",
+		"zusatz": "Dorfgemeinschaftshaus",
+		"geolat": 53.215051,
+		"geolng": 7.741369
+	},
+	{
+		"id": 128,
+		"ortid": 1,
+		"ot": "Vreschen-Bokel",
+		"firma": "",
+		"str": "Kranichweg",
+		"zusatz": "",
+		"geolat": 53.227653,
+		"geolng": 7.751362
+	},
+	{
+		"id": 129,
+		"ortid": 2,
+		"ot": "Aschhausen",
+		"firma": "",
+		"str": "Wiefelsteder Stra\u00dfe",
+		"zusatz": "Campingplatz",
+		"geolat": 53.202474,
+		"geolng": 8.040768
+	},
+	{
+		"id": 130,
+		"ortid": 2,
+		"ot": "Aschhausen",
+		"firma": "",
+		"str": "In de S\u00fcr",
+		"zusatz": "",
+		"geolat": 53.190149,
+		"geolng": 8.050847
+	},
+	{
+		"id": 131,
+		"ortid": 2,
+		"ot": "",
+		"firma": "",
+		"str": "Am Delf",
+		"zusatz": "Parkplatz",
+		"geolat": 53.18611,
+		"geolng": 7.994545
+	},
+	{
+		"id": 132,
+		"ortid": 2,
+		"ot": "",
+		"firma": "",
+		"str": "An den Wiesen",
+		"zusatz": "Kl\u00e4ranlage",
+		"geolat": 53.174361,
+		"geolng": 7.985019
+	},
+	{
+		"id": 133,
+		"ortid": 2,
+		"ot": "Ohrwege",
+		"firma": "",
+		"str": "Heckenkamp",
+		"zusatz": "",
+		"geolat": 53.182484,
+		"geolng": 7.981535
+	},
+	{
+		"id": 134,
+		"ortid": 2,
+		"ot": "",
+		"firma": "",
+		"str": "Langenhof",
+		"zusatz": "",
+		"geolat": 53.182566,
+		"geolng": 8.000366
+	},
+	{
+		"id": 135,
+		"ortid": 2,
+		"ot": "D\u00e4nikhorst",
+		"firma": "",
+		"str": "Hauptstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.144546,
+		"geolng": 7.941483
+	},
+	{
+		"id": 136,
+		"ortid": 2,
+		"ot": "Dreibergen",
+		"firma": "",
+		"str": "Dreiberger Stra\u00dfe",
+		"zusatz": "Parkplatz",
+		"geolat": 53.214991,
+		"geolng": 8.020151
+	},
+	{
+		"id": 137,
+		"ortid": 2,
+		"ot": "Ekern",
+		"firma": "",
+		"str": "Melmweg",
+		"zusatz": "",
+		"geolat": 53.15991,
+		"geolng": 7.990849
+	},
+	{
+		"id": 138,
+		"ortid": 2,
+		"ot": "Helle",
+		"firma": "",
+		"str": "Am Gesundbrunnen",
+		"zusatz": "Gr\u00fcne Linie",
+		"geolat": 53.220619,
+		"geolng": 8.024621
+	},
+	{
+		"id": 139,
+		"ortid": 2,
+		"ot": "Kayhausen",
+		"firma": "",
+		"str": "Am Moordamm",
+		"zusatz": "",
+		"geolat": 53.16638,
+		"geolng": 8.04893
+	},
+	{
+		"id": 140,
+		"ortid": 2,
+		"ot": "Kayhauserfeld",
+		"firma": "",
+		"str": "Heisterweg",
+		"zusatz": "",
+		"geolat": 53.168784,
+		"geolng": 8.061341
+	},
+	{
+		"id": 141,
+		"ortid": 2,
+		"ot": "Kayhauserfeld",
+		"firma": "",
+		"str": "Kammakerweg",
+		"zusatz": "",
+		"geolat": 53.175933,
+		"geolng": 8.043635
+	},
+	{
+		"id": 142,
+		"ortid": 2,
+		"ot": "Ofen",
+		"firma": "",
+		"str": "Alte Dorfstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.168019,
+		"geolng": 8.15113
+	},
+	{
+		"id": 143,
+		"ortid": 2,
+		"ot": "Ofen",
+		"firma": "",
+		"str": "Am Bloher Forst",
+		"zusatz": "",
+		"geolat": 53.166799,
+		"geolng": 8.141371
+	},
+	{
+		"id": 144,
+		"ortid": 2,
+		"ot": "Ofen",
+		"firma": "",
+		"str": "Rudolf-Kinau-Weg",
+		"zusatz": "",
+		"geolat": 53.173047,
+		"geolng": 8.150672
+	},
+	{
+		"id": 145,
+		"ortid": 2,
+		"ot": "Ohrwege",
+		"firma": "",
+		"str": "Am Timp",
+		"zusatz": "",
+		"geolat": 53.170591,
+		"geolng": 7.965839
+	},
+	{
+		"id": 146,
+		"ortid": 2,
+		"ot": "Ohrwege",
+		"firma": "",
+		"str": "Fichtenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.184301,
+		"geolng": 7.973232
+	},
+	{
+		"id": 147,
+		"ortid": 2,
+		"ot": "Ohrwege",
+		"firma": "",
+		"str": "Hochtanger Weg",
+		"zusatz": "",
+		"geolat": 53.170605,
+		"geolng": 7.93686
+	},
+	{
+		"id": 148,
+		"ortid": 2,
+		"ot": "Ohrwegerfeld",
+		"firma": "",
+		"str": "An den Feldk\u00e4mpen",
+		"zusatz": "",
+		"geolat": 53.183805,
+		"geolng": 7.948326
+	},
+	{
+		"id": 149,
+		"ortid": 2,
+		"ot": "Petersfehn",
+		"firma": "",
+		"str": "Eichenweg",
+		"zusatz": "bei der Kl\u00e4ranlage",
+		"geolat": 53.142798,
+		"geolng": 8.121831
+	},
+	{
+		"id": 150,
+		"ortid": 2,
+		"ot": "Petersfehn",
+		"firma": "",
+		"str": "Scheides Kamp",
+		"zusatz": "",
+		"geolat": 53.139058,
+		"geolng": 8.10615
+	},
+	{
+		"id": 151,
+		"ortid": 2,
+		"ot": "Querenstede",
+		"firma": "",
+		"str": "Urnenweg",
+		"zusatz": "",
+		"geolat": 53.155308,
+		"geolng": 7.958407
+	},
+	{
+		"id": 152,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "",
+		"str": "Alpenrosenweg",
+		"zusatz": "Fr\u00f6belstra\u00dfe",
+		"geolat": 53.1937,
+		"geolng": 7.980132
+	},
+	{
+		"id": 153,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "",
+		"str": "Elmendorfer Damm",
+		"zusatz": "",
+		"geolat": 53.202625,
+		"geolng": 7.984895
+	},
+	{
+		"id": 154,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "",
+		"str": "Virchowstra\u00dfe",
+		"zusatz": "Berufsbildende Schule",
+		"geolat": 53.197437,
+		"geolng": 7.989265
+	},
+	{
+		"id": 155,
+		"ortid": 2,
+		"ot": "Specken",
+		"firma": "",
+		"str": "Vor dem Moor",
+		"zusatz": "",
+		"geolat": 53.175173,
+		"geolng": 8.012967
+	},
+	{
+		"id": 156,
+		"ortid": 2,
+		"ot": "Wehnen",
+		"firma": "",
+		"str": "Ahornstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.174026,
+		"geolng": 8.132699
+	},
+	{
+		"id": 157,
+		"ortid": 2,
+		"ot": "Westerholtsfelde",
+		"firma": "",
+		"str": "Habichtsweg",
+		"zusatz": "",
+		"geolat": 53.18585,
+		"geolng": 8.113842
+	},
+	{
+		"id": 158,
+		"ortid": 3,
+		"ot": "",
+		"firma": "",
+		"str": "Bachmannsweg",
+		"zusatz": "",
+		"geolat": 53.1085,
+		"geolng": 7.981536
+	},
+	{
+		"id": 159,
+		"ortid": 3,
+		"ot": "",
+		"firma": "",
+		"str": "Bahnhofstra\u00dfe",
+		"zusatz": "Neukauf",
+		"geolat": 53.126974,
+		"geolng": 7.981025
+	},
+	{
+		"id": 160,
+		"ortid": 3,
+		"ot": "",
+		"firma": "",
+		"str": "Hauptstra\u00dfe",
+		"zusatz": "Combi",
+		"geolat": 53.131656,
+		"geolng": 7.988806
+	},
+	{
+		"id": 161,
+		"ortid": 3,
+		"ot": "",
+		"firma": "",
+		"str": "Viehdamm",
+		"zusatz": "",
+		"geolat": 53.140272,
+		"geolng": 7.990263
+	},
+	{
+		"id": 162,
+		"ortid": 3,
+		"ot": "",
+		"firma": "",
+		"str": "Zum Stadion",
+		"zusatz": "Hallenbad",
+		"geolat": 53.120585,
+		"geolng": 7.969401
+	},
+	{
+		"id": 163,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "",
+		"str": "Blendermannsweg",
+		"zusatz": "",
+		"geolat": 53.129932,
+		"geolng": 8.093949
+	},
+	{
+		"id": 164,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "",
+		"str": "Verbindungsweg",
+		"zusatz": "",
+		"geolat": 53.116514,
+		"geolng": 8.093275
+	},
+	{
+		"id": 165,
+		"ortid": 3,
+		"ot": "Friedrichsfehn",
+		"firma": "",
+		"str": "Zur Sportwiese",
+		"zusatz": "Parkplatz",
+		"geolat": 53.123175,
+		"geolng": 8.089698
+	},
+	{
+		"id": 166,
+		"ortid": 3,
+		"ot": "Husb\u00e4ke",
+		"firma": "",
+		"str": "Zur Turnhalle",
+		"zusatz": "Kindergarten",
+		"geolat": 53.086522,
+		"geolng": 7.991268
+	},
+	{
+		"id": 167,
+		"ortid": 3,
+		"ot": "Jeddeloh I",
+		"firma": "",
+		"str": "Jeddeloher Damm",
+		"zusatz": "Schie\u00dfstand",
+		"geolat": 53.122247,
+		"geolng": 8.03347
+	},
+	{
+		"id": 168,
+		"ortid": 3,
+		"ot": "Jeddeloh II",
+		"firma": "",
+		"str": "Am D\u00fcker",
+		"zusatz": "",
+		"geolat": 53.089308,
+		"geolng": 8.056175
+	},
+	{
+		"id": 169,
+		"ortid": 3,
+		"ot": "Jeddeloh II",
+		"firma": "",
+		"str": "Wischenstra\u00dfe",
+		"zusatz": "Ecke Vehnestra\u00dfe",
+		"geolat": 53.092009,
+		"geolng": 8.055233
+	},
+	{
+		"id": 170,
+		"ortid": 3,
+		"ot": "Klein Scharrel",
+		"firma": "",
+		"str": "Scharreler Damm",
+		"zusatz": "",
+		"geolat": 53.100514,
+		"geolng": 8.079407
+	},
+	{
+		"id": 171,
+		"ortid": 3,
+		"ot": "Osterscheps",
+		"firma": "",
+		"str": "Ginsterstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.124014,
+		"geolng": 7.923126
+	},
+	{
+		"id": 172,
+		"ortid": 3,
+		"ot": "Osterscheps",
+		"firma": "",
+		"str": "Zur Schule",
+		"zusatz": "",
+		"geolat": 53.121825,
+		"geolng": 7.937586
+	},
+	{
+		"id": 173,
+		"ortid": 3,
+		"ot": "Portsloge",
+		"firma": "",
+		"str": "Portsloger Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.144305,
+		"geolng": 8.004846
+	},
+	{
+		"id": 174,
+		"ortid": 3,
+		"ot": "S\u00fcddorf",
+		"firma": "",
+		"str": "Edammer Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.087921,
+		"geolng": 7.940153
+	},
+	{
+		"id": 175,
+		"ortid": 3,
+		"ot": "Westerscheps",
+		"firma": "",
+		"str": "Winkelweg",
+		"zusatz": "",
+		"geolat": 53.12792,
+		"geolng": 7.90191
+	},
+	{
+		"id": 176,
+		"ortid": 3,
+		"ot": "Wildenloh",
+		"firma": "",
+		"str": "Rotdornweg",
+		"zusatz": "",
+		"geolat": 53.127242,
+		"geolng": 8.132868
+	},
+	{
+		"id": 177,
+		"ortid": 3,
+		"ot": "Wittenberge",
+		"firma": "",
+		"str": "Am Birkenhain",
+		"zusatz": "",
+		"geolat": 53.147701,
+		"geolng": 7.874371
+	},
+	{
+		"id": 178,
+		"ortid": 4,
+		"ot": "Bekhausen",
+		"firma": "",
+		"str": "Wilhelmshavener Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.306111,
+		"geolng": 8.157128
+	},
+	{
+		"id": 179,
+		"ortid": 4,
+		"ot": "Hahn-Lehmden",
+		"firma": "",
+		"str": "An der Badeanstalt",
+		"zusatz": "",
+		"geolat": 53.292386,
+		"geolng": 8.175386
+	},
+	{
+		"id": 180,
+		"ortid": 4,
+		"ot": "Lehmden",
+		"firma": "",
+		"str": "Lehmder Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.284965,
+		"geolng": 8.174228
+	},
+	{
+		"id": 181,
+		"ortid": 4,
+		"ot": "Hahn-Lehmden",
+		"firma": "",
+		"str": "Am Sternbusch",
+		"zusatz": "",
+		"geolat": 53.292308,
+		"geolng": 8.165441
+	},
+	{
+		"id": 182,
+		"ortid": 4,
+		"ot": "Hankhausen",
+		"firma": "",
+		"str": "M\u00fchlenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.241998,
+		"geolng": 8.217535
+	},
+	{
+		"id": 183,
+		"ortid": 4,
+		"ot": "Hankhausen",
+		"firma": "",
+		"str": "Parkstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.246614,
+		"geolng": 8.227911
+	},
+	{
+		"id": 184,
+		"ortid": 4,
+		"ot": "Ipwege",
+		"firma": "",
+		"str": "Feldstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.207924,
+		"geolng": 8.254735
+	},
+	{
+		"id": 185,
+		"ortid": 4,
+		"ot": "Ipwegermoor",
+		"firma": "",
+		"str": "Nordermoordamm",
+		"zusatz": "",
+		"geolat": 53.218116,
+		"geolng": 8.288241
+	},
+	{
+		"id": 186,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Roggenmoorweg",
+		"zusatz": "",
+		"geolat": 53.260444,
+		"geolng": 8.203945
+	},
+	{
+		"id": 187,
+		"ortid": 4,
+		"ot": "Klein Feldhus",
+		"firma": "",
+		"str": "Klinkerstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.216263,
+		"geolng": 8.223215
+	},
+	{
+		"id": 188,
+		"ortid": 4,
+		"ot": "Leuchtenburg",
+		"firma": "",
+		"str": "Metjendorfer Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.240384,
+		"geolng": 8.157491
+	},
+	{
+		"id": 189,
+		"ortid": 4,
+		"ot": "Loy",
+		"firma": "",
+		"str": "Zum Ausblick",
+		"zusatz": "",
+		"geolat": 53.231315,
+		"geolng": 8.266389
+	},
+	{
+		"id": 190,
+		"ortid": 4,
+		"ot": "Loy",
+		"firma": "",
+		"str": "Ringstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.23741,
+		"geolng": 8.246312
+	},
+	{
+		"id": 191,
+		"ortid": 4,
+		"ot": "Nethen",
+		"firma": "",
+		"str": "Hirtenweg",
+		"zusatz": "",
+		"geolat": 53.286287,
+		"geolng": 8.134207
+	},
+	{
+		"id": 192,
+		"ortid": 4,
+		"ot": "Nethen",
+		"firma": "",
+		"str": "Wiefelsteder Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.279999,
+		"geolng": 8.14726
+	},
+	{
+		"id": 193,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Oldenburger Stra\u00dfe",
+		"zusatz": "Netto-Markt",
+		"geolat": 53.251321,
+		"geolng": 8.192124
+	},
+	{
+		"id": 194,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Raiffeisenstra\u00dfe",
+		"zusatz": "REWE",
+		"geolat": 53.246932,
+		"geolng": 8.186587
+	},
+	{
+		"id": 195,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Lessingstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.23754,
+		"geolng": 8.18155
+	},
+	{
+		"id": 196,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Stormstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.24325,
+		"geolng": 8.179119
+	},
+	{
+		"id": 197,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Wilhelmstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.244466,
+		"geolng": 8.195415
+	},
+	{
+		"id": 198,
+		"ortid": 4,
+		"ot": "Rastederberg",
+		"firma": "",
+		"str": "Schanzer Weg",
+		"zusatz": "",
+		"geolat": 53.318424,
+		"geolng": 8.180061
+	},
+	{
+		"id": 199,
+		"ortid": 4,
+		"ot": "S\u00fcdende",
+		"firma": "",
+		"str": "Am Hardenkamp",
+		"zusatz": "",
+		"geolat": 53.226535,
+		"geolng": 8.214671
+	},
+	{
+		"id": 200,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "",
+		"str": "Sandbergstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.204706,
+		"geolng": 8.233471
+	},
+	{
+		"id": 201,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "",
+		"str": "Schulstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.20361,
+		"geolng": 8.253388
+	},
+	{
+		"id": 202,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "",
+		"str": "Weichselstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.207782,
+		"geolng": 8.236575
+	},
+	{
+		"id": 203,
+		"ortid": 4,
+		"ot": "Wahnbek",
+		"firma": "",
+		"str": "Tannenkrugstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.216835,
+		"geolng": 8.233913
+	},
+	{
+		"id": 204,
+		"ortid": 4,
+		"ot": "Wapeldorf",
+		"firma": "",
+		"str": "Spohler Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.329323,
+		"geolng": 8.141297
+	},
+	{
+		"id": 205,
+		"ortid": 5,
+		"ot": "Eggeloge",
+		"firma": "",
+		"str": "Raiffeisenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.303106,
+		"geolng": 7.950515
+	},
+	{
+		"id": 206,
+		"ortid": 5,
+		"ot": "Garnholt",
+		"firma": "",
+		"str": "Garnholterdamm",
+		"zusatz": "",
+		"geolat": 53.259435,
+		"geolng": 8.021265
+	},
+	{
+		"id": 207,
+		"ortid": 5,
+		"ot": "Gie\u00dfelhorst",
+		"firma": "",
+		"str": "Langer Weg",
+		"zusatz": "",
+		"geolat": 53.242884,
+		"geolng": 7.961609
+	},
+	{
+		"id": 208,
+		"ortid": 5,
+		"ot": "Halsbek",
+		"firma": "",
+		"str": "Brinkstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.314539,
+		"geolng": 7.920182
+	},
+	{
+		"id": 209,
+		"ortid": 5,
+		"ot": "Hollriede",
+		"firma": "",
+		"str": "Augustfehner Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.288444,
+		"geolng": 7.855718
+	},
+	{
+		"id": 210,
+		"ortid": 5,
+		"ot": "Hollwege",
+		"firma": "",
+		"str": "Am Grashoff",
+		"zusatz": "",
+		"geolat": 53.273542,
+		"geolng": 7.900516
+	},
+	{
+		"id": 211,
+		"ortid": 5,
+		"ot": "Ihausen",
+		"firma": "",
+		"str": "Am Kanal",
+		"zusatz": "",
+		"geolat": 53.271824,
+		"geolng": 7.826319
+	},
+	{
+		"id": 212,
+		"ortid": 5,
+		"ot": "Ihausen",
+		"firma": "",
+		"str": "Augustfehner Stra\u00dfe 139",
+		"zusatz": "",
+		"geolat": 53.264943,
+		"geolng": 7.813695
+	},
+	{
+		"id": 213,
+		"ortid": 5,
+		"ot": "Ihorst",
+		"firma": "",
+		"str": "Eibenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.261515,
+		"geolng": 7.843048
+	},
+	{
+		"id": 214,
+		"ortid": 5,
+		"ot": "Karlshof",
+		"firma": "",
+		"str": "Am See",
+		"zusatz": "",
+		"geolat": 53.189764,
+		"geolng": 7.87065
+	},
+	{
+		"id": 215,
+		"ortid": 5,
+		"ot": "Linswege",
+		"firma": "",
+		"str": "Nachtigallenweg",
+		"zusatz": "",
+		"geolat": 53.280658,
+		"geolng": 7.976188
+	},
+	{
+		"id": 216,
+		"ortid": 5,
+		"ot": "Moorburg",
+		"firma": "",
+		"str": "Friesenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.29156,
+		"geolng": 7.892497
+	},
+	{
+		"id": 217,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "",
+		"str": "Am Bahnhof",
+		"zusatz": "",
+		"geolat": 53.202107,
+		"geolng": 7.888801
+	},
+	{
+		"id": 218,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "",
+		"str": "Am St\u00fcmmel",
+		"zusatz": "",
+		"geolat": 53.208128,
+		"geolng": 7.876187
+	},
+	{
+		"id": 219,
+		"ortid": 5,
+		"ot": "Ocholt-Howiek",
+		"firma": "",
+		"str": "Hermann-L\u00f6ns-Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.198413,
+		"geolng": 7.902474
+	},
+	{
+		"id": 220,
+		"ortid": 5,
+		"ot": "Ocholt",
+		"firma": "",
+		"str": "Hochkamp",
+		"zusatz": "",
+		"geolat": 53.204485,
+		"geolng": 7.873033
+	},
+	{
+		"id": 221,
+		"ortid": 5,
+		"ot": "Ollenharde",
+		"firma": "",
+		"str": "Ollenharder Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.192212,
+		"geolng": 7.922405
+	},
+	{
+		"id": 222,
+		"ortid": 5,
+		"ot": "Petersfeld",
+		"firma": "",
+		"str": "Alpenrosenstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.285876,
+		"geolng": 8.027186
+	},
+	{
+		"id": 223,
+		"ortid": 5,
+		"ot": "Tarbarg",
+		"firma": "",
+		"str": "Halsbeker Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.334414,
+		"geolng": 7.887767
+	},
+	{
+		"id": 224,
+		"ortid": 5,
+		"ot": "Torsholt",
+		"firma": "",
+		"str": "Torsholter Hauptstra\u00dfe",
+		"zusatz": "DGH",
+		"geolat": 53.2128,
+		"geolng": 7.932536
+	},
+	{
+		"id": 225,
+		"ortid": 5,
+		"ot": "Westerloy",
+		"firma": "",
+		"str": "M\u00f6hlenpadd",
+		"zusatz": "",
+		"geolat": 53.238645,
+		"geolng": 7.878759
+	},
+	{
+		"id": 226,
+		"ortid": 5,
+		"ot": "",
+		"firma": "",
+		"str": "Am Esch",
+		"zusatz": "Famila",
+		"geolat": 53.260782,
+		"geolng": 7.932166
+	},
+	{
+		"id": 227,
+		"ortid": 5,
+		"ot": "",
+		"firma": "",
+		"str": "Ammerlandallee",
+		"zusatz": "Kl\u00e4ranlage",
+		"geolat": 53.249358,
+		"geolng": 7.919321
+	},
+	{
+		"id": 228,
+		"ortid": 5,
+		"ot": "",
+		"firma": "",
+		"str": "Ammerlandallee",
+		"zusatz": "Kreishaus/Finanzamt",
+		"geolat": 53.254252,
+		"geolng": 7.933708
+	},
+	{
+		"id": 229,
+		"ortid": 5,
+		"ot": "",
+		"firma": "",
+		"str": "Bankstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.258274,
+		"geolng": 7.926082
+	},
+	{
+		"id": 230,
+		"ortid": 5,
+		"ot": "",
+		"firma": "",
+		"str": "Dr.-Winter-Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.263472,
+		"geolng": 7.928351
+	},
+	{
+		"id": 231,
+		"ortid": 5,
+		"ot": "",
+		"firma": "",
+		"str": "Norderstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.261635,
+		"geolng": 7.924004
+	},
+	{
+		"id": 232,
+		"ortid": 6,
+		"ot": "Bokel",
+		"firma": "",
+		"str": "Am Wiesengrund",
+		"zusatz": "",
+		"geolat": 53.229989,
+		"geolng": 8.138145
+	},
+	{
+		"id": 233,
+		"ortid": 6,
+		"ot": "Borbeck",
+		"firma": "",
+		"str": "Borbecker Landstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.205111,
+		"geolng": 8.148825
+	},
+	{
+		"id": 234,
+		"ortid": 6,
+		"ot": "Conneforde",
+		"firma": "",
+		"str": "Dorfstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.326337,
+		"geolng": 8.063142
+	},
+	{
+		"id": 235,
+		"ortid": 6,
+		"ot": "Gristede",
+		"firma": "",
+		"str": "Langenfurth",
+		"zusatz": "Sportplatz",
+		"geolat": 53.226076,
+		"geolng": 8.058202
+	},
+	{
+		"id": 237,
+		"ortid": 6,
+		"ot": "Herrenhausen",
+		"firma": "",
+		"str": "Wapeldorfer Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.319204,
+		"geolng": 8.099883
+	},
+	{
+		"id": 238,
+		"ortid": 6,
+		"ot": "Metjendorf",
+		"firma": "",
+		"str": "Gorg-Bruns-Ring",
+		"zusatz": "Ecke An den Eichen",
+		"geolat": 53.188004,
+		"geolng": 8.164011
+	},
+	{
+		"id": 239,
+		"ortid": 6,
+		"ot": "Metjendorf",
+		"firma": "",
+		"str": "M\u00fchlengrund",
+		"zusatz": "Ecke Am Marktplatz",
+		"geolat": 53.190162,
+		"geolng": 8.172167
+	},
+	{
+		"id": 240,
+		"ortid": 6,
+		"ot": "Neuenkruge",
+		"firma": "",
+		"str": "Buschstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.198368,
+		"geolng": 8.125156
+	},
+	{
+		"id": 241,
+		"ortid": 6,
+		"ot": "Nuttel",
+		"firma": "",
+		"str": "Nutteler Weg",
+		"zusatz": "",
+		"geolat": 53.241691,
+		"geolng": 8.141686
+	},
+	{
+		"id": 242,
+		"ortid": 6,
+		"ot": "Ofenerfeld",
+		"firma": "",
+		"str": "Am Sandplacken",
+		"zusatz": "",
+		"geolat": 53.192304,
+		"geolng": 8.186573
+	},
+	{
+		"id": 243,
+		"ortid": 6,
+		"ot": "Ofenerfeld",
+		"firma": "",
+		"str": "Bachstelzenweg",
+		"zusatz": "",
+		"geolat": 53.190106,
+		"geolng": 8.184534
+	},
+	{
+		"id": 244,
+		"ortid": 6,
+		"ot": "Spohle",
+		"firma": "",
+		"str": "Wiefelsteder Stra\u00dfe",
+		"zusatz": "Feuerwehr",
+		"geolat": 53.307008,
+		"geolng": 8.06289
+	},
+	{
+		"id": 245,
+		"ortid": 6,
+		"ot": "",
+		"firma": "",
+		"str": "Am Breeden",
+		"zusatz": "Buswendeplatz",
+		"geolat": 53.25841,
+		"geolng": 8.11074
+	},
+	{
+		"id": 246,
+		"ortid": 6,
+		"ot": "",
+		"firma": "",
+		"str": "Hankenstra\u00dfe",
+		"zusatz": "Rathaus",
+		"geolat": 53.255659,
+		"geolng": 8.114349
+	},
+	{
+		"id": 247,
+		"ortid": 6,
+		"ot": "",
+		"firma": "",
+		"str": "Olekamp",
+		"zusatz": "",
+		"geolat": 53.262915,
+		"geolng": 8.125534
+	},
+	{
+		"id": 248,
+		"ortid": 6,
+		"ot": "",
+		"firma": "",
+		"str": "Stahlstra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.246136,
+		"geolng": 8.1212
+	},
+	{
+		"id": 249,
+		"ortid": 6,
+		"ot": "Molberg",
+		"firma": "",
+		"str": "Dringenburger Stra\u00dfe",
+		"zusatz": "",
+		"geolat": 53.284614,
+		"geolng": 8.092945
+	},
+	{
+		"id": 250,
+		"ortid": 5,
+		"ot": "",
+		"firma": "M\u00fclldeponie Mansie",
+		"str": "Westersteder Str. 43",
+		"zusatz": "",
+		"geolat": 53.234512,
+		"geolng": 7.905055
+	},
+	{
+		"id": 251,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "Combi Verbrauchermarkt",
+		"str": "Westersteder Str. 2",
+		"zusatz": "",
+		"geolat": 53.208824,
+		"geolng": 7.992979
+	},
+	{
+		"id": 252,
+		"ortid": 4,
+		"ot": "",
+		"firma": "Tadellos Gro\u00df- und Einzelhandel",
+		"str": "Oldenburger Str. 231",
+		"zusatz": "",
+		"geolat": 53.246718,
+		"geolng": 8.198155
+	},
+	{
+		"id": 253,
+		"ortid": 2,
+		"ot": "",
+		"firma": "REWE Center",
+		"str": "Langenhof 24",
+		"zusatz": "",
+		"geolat": 53.18172,
+		"geolng": 8.00487
+	},
+	{
+		"id": 255,
+		"ortid": 4,
+		"ot": "",
+		"firma": "",
+		"str": "Eichendorffstra\u00dfe",
+		"zusatz": "Parkplatz Kindergarten",
+		"geolat": 53.248671,
+		"geolng": 8.208759
+	},
+	{
+		"id": 256,
+		"ortid": 2,
+		"ot": "Rostrup",
+		"firma": "Meyer Electronic, Rostrup",
+		"str": "Elmendorfer Stra\u00dfe 9",
+		"zusatz": "",
+		"geolat": 53.191993,
+		"geolng": 7.984758
+	},
+	{
+		"id": 257,
+		"ortid": 2,
+		"ot": "",
+		"firma": "Avia Tankstelle Wilms",
+		"str": "Im Doorgrund 2",
+		"zusatz": "",
+		"geolat": 53.170191,
+		"geolng": 7.9986
+	},
+	{
+		"id": 258,
+		"ortid": 6,
+		"ot": "",
+		"firma": "Apotheke im \u00c4rztezentrum",
+		"str": "Hauptstr. 47 a",
+		"zusatz": "",
+		"geolat": 53.25062,
+		"geolng": 8.121849
+	},
+	{
+		"id": 259,
+		"ortid": 6,
+		"ot": "Metjendorf",
+		"firma": "Q1-Tankstelle SELGROS, Metjendorf",
+		"str": "Schwarzer Weg 1",
+		"zusatz": "",
+		"geolat": 53.18357,
+		"geolng": 8.178929
+	}
+]

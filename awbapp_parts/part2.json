@@ -1,0 +1,251 @@
+[
+	{ "id": 1, "strid": 77, "grenze": "Ocholt" },
+	{ "id": 2, "strid": 77, "grenze": "Westerstede" },
+	{ "id": 3, "strid": 103, "grenze": "ab Seggerner Stra\u00dfe" },
+	{
+		"id": 4,
+		"strid": 103,
+		"grenze": "von Ammerlandallee bis Seggerner Stra\u00dfe"
+	},
+	{ "id": 5, "strid": 160, "grenze": "\u00f6stl. d. Ammerlandallee" },
+	{ "id": 6, "strid": 160, "grenze": "westl. d. Ammerlandallee" },
+	{
+		"id": 7,
+		"strid": 282,
+		"grenze": "au\u00dferhalb Vo\u00dfbarg bis K\u00f6tters Weg"
+	},
+	{ "id": 8, "strid": 282, "grenze": "Vo\u00dfbarg bis K\u00f6tters Weg" },
+	{ "id": 9, "strid": 327, "grenze": "n\u00f6rdl.d. A 28" },
+	{ "id": 10, "strid": 327, "grenze": "s\u00fcdl.d. A 28" },
+	{ "id": 11, "strid": 437, "grenze": "Ihausener Str. bis Leerer Str." },
+	{ "id": 12, "strid": 437, "grenze": "Stahlwerkstr. bis Ihausener Str." },
+	{ "id": 13, "strid": 517, "grenze": "im Moorgebiet" },
+	{ "id": 14, "strid": 517, "grenze": "nicht im Moorgebiet" },
+	{ "id": 15, "strid": 539, "grenze": "n\u00f6rdl. d. Bahnstrecke" },
+	{ "id": 16, "strid": 539, "grenze": "s\u00fcdl. d. Bahnstrecke" },
+	{
+		"id": 17,
+		"strid": 555,
+		"grenze": "au\u00dferhalb Gerkentorsweg - Rasteder Str."
+	},
+	{ "id": 18, "strid": 555, "grenze": "Gerkentorsweg - Rasteder Str." },
+	{ "id": 19, "strid": 570, "grenze": "Im Himmel - Kreisgrenze an B211" },
+	{ "id": 20, "strid": 570, "grenze": "Oldenburger Str.- Im Himmel" },
+	{ "id": 21, "strid": 605, "grenze": "ab Langenhof bis Speckener Weg" },
+	{
+		"id": 22,
+		"strid": 605,
+		"grenze": "von Oldenburger Stra\u00dfe bis Langenhof"
+	},
+	{ "id": 23, "strid": 649, "grenze": "n\u00f6rdl. Schulstra\u00dfe" },
+	{ "id": 24, "strid": 649, "grenze": "s\u00fcdl. Schulstra\u00dfe" },
+	{
+		"id": 25,
+		"strid": 722,
+		"grenze": "ab Ecke Rudenbrook bis Scharreler Damm"
+	},
+	{
+		"id": 26,
+		"strid": 722,
+		"grenze": "ab Friedrichsfehner Str. bis Ecke Rudenbrook"
+	},
+	{ "id": 27, "strid": 751, "grenze": "im Moorgebiet" },
+	{ "id": 28, "strid": 751, "grenze": "nicht im Moorgebiet" },
+	{ "id": 29, "strid": 1069, "grenze": "im Moorgebiet" },
+	{ "id": 30, "strid": 1069, "grenze": "nicht im Moorgebiet" },
+	{
+		"id": 31,
+		"strid": 1103,
+		"grenze": "Augustfehn westlich Stahlwerkstr., Hausnr. 457/484 aufw\u00e4rts bis 717/720"
+	},
+	{
+		"id": 32,
+		"strid": 1103,
+		"grenze": "Reihdamm bis Am Damm, Hausnr. 1-23 und 10"
+	},
+	{
+		"id": 33,
+		"strid": 1103,
+		"grenze": "Stahlwerkstr. bis Reihdamm, Hausnr. 455/482 abw\u00e4rts bis 31/20"
+	},
+	{
+		"id": 34,
+		"strid": 1167,
+		"grenze": "von Auf den Linden bis Osterschepser Str."
+	},
+	{ "id": 35, "strid": 1167, "grenze": "von Haupstr. bis Auf den Linden" },
+	{ "id": 36, "strid": 1330, "grenze": "\u00f6stl. d. Windm\u00fchlenstr." },
+	{ "id": 37, "strid": 1330, "grenze": "westl. d. Windm\u00fchlenstr." },
+	{ "id": 38, "strid": 1363, "grenze": "abgehend von Neuenkruger Str." },
+	{ "id": 39, "strid": 1363, "grenze": "abgehend von Zwischenahner Str." },
+	{ "id": 40, "strid": 1451, "grenze": "im Moorgebiet" },
+	{ "id": 41, "strid": 1451, "grenze": "nicht im Moorgebiet" },
+	{
+		"id": 42,
+		"strid": 1527,
+		"grenze": "ab S\u00fcddorf bis Ecke Bachmannsweg"
+	},
+	{
+		"id": 43,
+		"strid": 1527,
+		"grenze": "Br\u00fccke Klein Scharrel bis Br\u00fccke Husb\u00e4ke"
+	},
+	{
+		"id": 44,
+		"strid": 1527,
+		"grenze": "Stadtgrenze OL bis Br\u00fccke Klein Scharrel"
+	},
+	{ "id": 45, "strid": 1556, "grenze": "n\u00f6rdlich K\u00f6ntjeweg" },
+	{ "id": 46, "strid": 1556, "grenze": "s\u00fcdlich K\u00f6ntjeweg" },
+	{ "id": 47, "strid": 1575, "grenze": "im Moorgebiet" },
+	{ "id": 48, "strid": 1575, "grenze": "nicht im Moorgebiet" },
+	{ "id": 49, "strid": 1611, "grenze": "s\u00fcdl.ab Ecke Am Paradies" },
+	{ "id": 50, "strid": 1611, "grenze": "westl.ab Ecke Am Paradies" },
+	{
+		"id": 51,
+		"strid": 1612,
+		"grenze": "ab Auf den Linden bis Osterschepser Stra\u00dfe"
+	},
+	{ "id": 52, "strid": 1612, "grenze": "D\u00e4nikhorst bis Auf den Linden" },
+	{ "id": 53, "strid": 1626, "grenze": "im Moorgebiet" },
+	{ "id": 54, "strid": 1626, "grenze": "nicht im Moorgebiet" },
+	{ "id": 55, "strid": 1653, "grenze": "Apen" },
+	{ "id": 56, "strid": 1653, "grenze": "Godensholt" },
+	{ "id": 59, "strid": 1829, "grenze": "Nordloh, ab Saterlandstr." },
+	{ "id": 60, "strid": 1829, "grenze": "Tange, bis Saterlandstr." },
+	{
+		"id": 61,
+		"strid": 1839,
+		"grenze": "au\u00dferhalb Bokeler Landstr. Gerkentorsweg"
+	},
+	{ "id": 62, "strid": 1839, "grenze": "Bokeler Landstr. Gerkentorsweg" },
+	{ "id": 63, "strid": 1855, "grenze": "n\u00f6rdl. Am Auebach" },
+	{ "id": 64, "strid": 1855, "grenze": "s\u00fcdl. Am Auebach" },
+	{ "id": 65, "strid": 1858, "grenze": "\u00f6stl. Ecke Wiefelsteder Str." },
+	{ "id": 66, "strid": 1858, "grenze": "westl. Ecke Wiefelsteder Str." },
+	{
+		"id": 67,
+		"strid": 1859,
+		"grenze": "Kleibroker Stra\u00dfe bis Parkstra\u00dfe"
+	},
+	{
+		"id": 68,
+		"strid": 1859,
+		"grenze": "n\u00f6rdl. Teil bis Kleibroker Stra\u00dfe"
+	},
+	{ "id": 69, "strid": 1859, "grenze": "s\u00fcdl. Teil bis Parkstra\u00dfe" },
+	{
+		"id": 70,
+		"strid": 1864,
+		"grenze": "n\u00f6rdl. Zwischenahner Stra\u00dfe"
+	},
+	{ "id": 71, "strid": 1864, "grenze": "s\u00fcdl. Zwischenahner Stra\u00dfe" },
+	{ "id": 72, "strid": 1934, "grenze": "\u00f6stl. Birkenweg" },
+	{ "id": 73, "strid": 1934, "grenze": "westl. Birkenweg" },
+	{ "id": 74, "strid": 1935, "grenze": "Goldene Linie bis Portsloger Damm" },
+	{ "id": 75, "strid": 1935, "grenze": "Viehdamm bis Goldene Linie" },
+	{ "id": 76, "strid": 1957, "grenze": "\u00f6stl. Teil bis Bahn" },
+	{ "id": 77, "strid": 1957, "grenze": "westl. Teil bis Bahn" },
+	{ "id": 78, "strid": 2066, "grenze": "Mansholt" },
+	{ "id": 79, "strid": 2066, "grenze": "Wiefelstede" },
+	{ "id": 80, "strid": 2076, "grenze": "ab Heidedamm bis Wischenstra\u00dfe" },
+	{
+		"id": 81,
+		"strid": 2076,
+		"grenze": "ab K\u00fcstenkanalstra\u00dfe bis Heidedamm"
+	},
+	{ "id": 82, "strid": 2219, "grenze": "Langebr\u00fcgger Str. bis Autobahn" },
+	{
+		"id": 83,
+		"strid": 2219,
+		"grenze": "Langebr\u00fcgger Str. bis Oldenburger Str."
+	},
+	{ "id": 84, "strid": 2221, "grenze": "\u00f6stl. der BAB" },
+	{ "id": 85, "strid": 2221, "grenze": "westl. der BAB" },
+	{
+		"id": 86,
+		"strid": 2252,
+		"grenze": "Neue Stra\u00dfe bis Langebr\u00fcgger Stra\u00dfe"
+	},
+	{
+		"id": 87,
+		"strid": 2252,
+		"grenze": "Oldenburger Stra\u00dfe bis Neue Stra\u00dfe"
+	},
+	{
+		"id": 88,
+		"strid": 2362,
+		"grenze": "ab Portsloger Stra\u00dfe bis Hauptstr."
+	},
+	{ "id": 89, "strid": 2362, "grenze": "bis Portsloger Stra\u00dfe" },
+	{
+		"id": 90,
+		"strid": 2484,
+		"grenze": "n\u00f6rdl. Ecke Ocholter Str./ Elmendorfer Str."
+	},
+	{
+		"id": 91,
+		"strid": 2484,
+		"grenze": "s\u00fcdl. Ecke Ocholter Str./ Elmendorfer Str."
+	},
+	{ "id": 92, "strid": 2493, "grenze": "n\u00f6rdl. Ecke Windm\u00fchlenstr." },
+	{
+		"id": 93,
+		"strid": 2493,
+		"grenze": "s\u00fcdl. Ecke Windm\u00fchlenstr. bis Oldenburger Str."
+	},
+	{
+		"id": 94,
+		"strid": 2524,
+		"grenze": "n\u00f6rdl. Teil bis Wiefelsteder Str."
+	},
+	{
+		"id": 95,
+		"strid": 2524,
+		"grenze": "s\u00fcdl. Teil bis Wiefelsteder Str."
+	},
+	{
+		"id": 96,
+		"strid": 2534,
+		"grenze": "ab Jeddeloh I bis Ecke Elbestra\u00dfe"
+	},
+	{
+		"id": 97,
+		"strid": 2534,
+		"grenze": "ab K\u00fcstenkanalstra\u00dfe bis Ecke Elbestra\u00dfe"
+	},
+	{ "id": 98, "strid": 2548, "grenze": "n\u00f6rdl. d. Bahnstrecke" },
+	{ "id": 99, "strid": 2548, "grenze": "s\u00fcdl. d. Bahnstrecke" },
+	{ "id": 100, "strid": 2623, "grenze": "im Moorgebiet" },
+	{ "id": 101, "strid": 2623, "grenze": "nicht im Moorgebiet" },
+	{ "id": 102, "strid": 2648, "grenze": "n\u00f6rdlich A28" },
+	{ "id": 103, "strid": 2648, "grenze": "s\u00fcdlich A28" },
+	{ "id": 104, "strid": 789, "grenze": "nicht Woldlinie bis Mittellinie" },
+	{ "id": 105, "strid": 789, "grenze": "Woldlinie bis Mittellinie" },
+	{ "id": 107, "strid": 1156, "grenze": "Hausnr. 1-22, von Tannenloge" },
+	{ "id": 108, "strid": 2464, "grenze": "Hausnummern 19/19a" },
+	{ "id": 109, "strid": 2464, "grenze": "andere Hausnummer" },
+	{ "id": 110, "strid": 2677, "grenze": "von Breeweg" },
+	{ "id": 111, "strid": 2677, "grenze": "von Hauptstra\u00dfe" },
+	{
+		"id": 114,
+		"strid": 286,
+		"grenze": "Kampstr. bis S\u00fcdholter Stra\u00dfe"
+	},
+	{ "id": 115, "strid": 286, "grenze": "Osterfeld bis Kampstr." },
+	{ "id": 117, "strid": 2126, "grenze": "An den Buchen bis Polderstr." },
+	{ "id": 118, "strid": 2126, "grenze": "Hauptstr. bis An den Buchen" },
+	{
+		"id": 119,
+		"strid": 2509,
+		"grenze": "Wildenlohslinie bis Edewechter Landstra\u00dfe"
+	},
+	{ "id": 120, "strid": 2509, "grenze": "Wildenlohslinie bis Mittellinie" },
+	{ "id": 121, "strid": 2265, "grenze": "Hausnummer 53" },
+	{ "id": 122, "strid": 2265, "grenze": "andere Hausnummer" },
+	{ "id": 123, "strid": 1156, "grenze": "ab Nr. 23" },
+	{ "id": 124, "strid": 1275, "grenze": "andere Hausnummer" },
+	{ "id": 125, "strid": 1275, "grenze": "Hausnummer 8" },
+	{ "id": 126, "strid": 2149, "grenze": "andere Hausnummer" },
+	{ "id": 127, "strid": 2149, "grenze": "Hausnummer 31, 31a und 33" }
+]
