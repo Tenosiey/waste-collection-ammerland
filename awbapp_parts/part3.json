@@ -1,1 +1,144 @@
-[{"id":1,"strid":103,"grenze":"von Moosbrooksweg bis Kuhlenstr."},{"id":2,"strid":103,"grenze":"von Moosbrooksweg bis Westerloy"},{"id":3,"strid":103,"grenze":"von Westerloy bis Klampen"},{"id":4,"strid":328,"grenze":"Apermarsch"},{"id":5,"strid":328,"grenze":"OT Godensh. Weg"},{"id":6,"strid":328,"grenze":"von Aperb. Str. bis Godensh. Str."},{"id":7,"strid":398,"grenze":"OT Aperberg"},{"id":8,"strid":398,"grenze":"von Ammerlandstr. bis Kirchweg"},{"id":9,"strid":398,"grenze":"von J\u00fcckenweg bis Nordloh"},{"id":10,"strid":444,"grenze":"bis Industriestr."},{"id":11,"strid":444,"grenze":"Husb\u00e4ke, bis Industriestr."},{"id":12,"strid":458,"grenze":"Augustfehn I \/ Vreschen-Bokel"},{"id":13,"strid":458,"grenze":"Godensholt"},{"id":14,"strid":530,"grenze":"Friedrichsfehn"},{"id":15,"strid":530,"grenze":"Jeddeloh II, Klein Scharrel"},{"id":16,"strid":539,"grenze":"Bahnlinie OL-Leer bis Hermann-Ehlers-Str."},{"id":17,"strid":539,"grenze":"Mittellinie bis Bahnlinie OL-Leer"},{"id":18,"strid":632,"grenze":"Holtkamp bis Edewechter Str."},{"id":19,"strid":632,"grenze":"Querenst. Str. bis Holtkamp"},{"id":20,"strid":722,"grenze":"v. Friedrichsfehner Str. bis Ziegelweg"},{"id":21,"strid":722,"grenze":"v. Ziegelweg bis Schafdamm"},{"id":22,"strid":735,"grenze":"ab Bahnlinie OL-Leer"},{"id":23,"strid":735,"grenze":"bis Bahnlinie OL-Leer"},{"id":24,"strid":877,"grenze":"Bahnlinie OL-Leer bis Oldenburger Str."},{"id":25,"strid":877,"grenze":"Woldlinie bis Bahnlinie OL-Leer"},{"id":26,"strid":918,"grenze":"Ofen-Brokhausen"},{"id":27,"strid":918,"grenze":"Petersfehn I"},{"id":28,"strid":995,"grenze":"OT Godensh. Weg"},{"id":29,"strid":995,"grenze":"von Osterende bis Ammerlandstr."},{"id":30,"strid":999,"grenze":"Nord-Edewecht I"},{"id":31,"strid":999,"grenze":"S\u00fcddorf, Osterscheps"},{"id":32,"strid":1009,"grenze":"Grenzweg bis L\u00f6neborger Damm"},{"id":33,"strid":1009,"grenze":"L\u00fcneborger Damm bis An den K\u00e4mpen"},{"id":34,"strid":1046,"grenze":"Bachmannsweg bis Barkenmoor"},{"id":35,"strid":1046,"grenze":"v. Barkenmoor bis Falkenweg"},{"id":36,"strid":1103,"grenze":"ab Hullmannweg"},{"id":37,"strid":1103,"grenze":"Apen-Ort u. Espern"},{"id":38,"strid":1103,"grenze":"bis Hullmannweg"},{"id":39,"strid":1103,"grenze":"Hengstforde"},{"id":40,"strid":1103,"grenze":"Holtgast"},{"id":41,"strid":1103,"grenze":"OT Klampen"},{"id":42,"strid":1179,"grenze":"von Bahnlinie OL-Leer bis Am Moordamm"},{"id":43,"strid":1179,"grenze":"von Oldenburger Str. bis Bahnlinie OL-Leer"},{"id":44,"strid":1216,"grenze":"Bachstelzenweg bis Elmend. Str."},{"id":45,"strid":1216,"grenze":"Dreiberger Str. bis Bachstelzenweg"},{"id":46,"strid":1451,"grenze":"Delfsh\u00f6rn bis Logemanns Damm"},{"id":47,"strid":1451,"grenze":"Logemanns Damm bis Oldenburger Str."},{"id":48,"strid":1460,"grenze":"Altenkamp, Ohrwegerfeld"},{"id":49,"strid":1460,"grenze":"Ohrwege, Querenstede, D\u00e4nikhorst"},{"id":50,"strid":1527,"grenze":"v. Bachmannsw.\/Husb. b. Edammer Str.\/S\u00fcddorf"},{"id":51,"strid":1527,"grenze":"v. Scharreler D. bis Bachmannsweg Husb\u00e4ke"},{"id":52,"strid":1527,"grenze":"v. Scharreler Damm bis Oldenburger Str."},{"id":53,"strid":1549,"grenze":"M\u00fchlenstr. bis Eyhauser Allee"},{"id":54,"strid":1549,"grenze":"M\u00fchlenstr. bis Peterstr."},{"id":55,"strid":1551,"grenze":"Godensholt"},{"id":56,"strid":1551,"grenze":"Nordloh"},{"id":57,"strid":1554,"grenze":"von Autobahn bis Langebr\u00fcgge"},{"id":58,"strid":1554,"grenze":"von Autobahn bis Neuenburger Str."},{"id":59,"strid":1611,"grenze":"Ihorst"},{"id":60,"strid":1611,"grenze":"Ort, Westerstederfeld, Halstrup"},{"id":61,"strid":1856,"grenze":"von Ammerlandallee bis Vogelpark"},{"id":62,"strid":1856,"grenze":"von Vogelpark bis Stubberei"},{"id":63,"strid":1857,"grenze":"ab Industriestra\u00dfe Richtung Jeddeloh"},{"id":64,"strid":1857,"grenze":"Hauptstra\u00dfe bis Einm\u00fcndung Industriestra\u00dfe"},{"id":65,"strid":1858,"grenze":"Am hogen Hagen bis Wiefelst. Str."},{"id":66,"strid":1858,"grenze":"Feldlinie bis Wiefelsteder Str."},{"id":67,"strid":1859,"grenze":"Borbecker Weg bis Schlo\u00dfstr."},{"id":68,"strid":1859,"grenze":"OL bis Borbecker Weg"},{"id":69,"strid":1859,"grenze":"Schlo\u00dfstr. bis Auf der Raade"},{"id":70,"strid":1859,"grenze":"Wilhelmsh. Str. bis Auf der Raade"},{"id":71,"strid":2059,"grenze":"Augustfehn I \/ Vreschen Bokel"},{"id":72,"strid":2059,"grenze":"Nordloh-Kanal\/Hengstforderfeld"},{"id":73,"strid":2066,"grenze":"Mansholt"},{"id":74,"strid":2066,"grenze":"Wiefelstede\/Holler Moor"},{"id":75,"strid":2160,"grenze":"Torsholt, Gie\u00dfelhorst"},{"id":76,"strid":2160,"grenze":"Westerstede Ort"},{"id":77,"strid":2253,"grenze":"von Birkenstr. bis Bahn\u00fcbergang"},{"id":78,"strid":2253,"grenze":"von Birkenstra\u00dfe bis Gemeindegrenze am Uhlenmeer"},{"id":79,"strid":2356,"grenze":"von Oldenburger Str. bis Sandberg"},{"id":80,"strid":2356,"grenze":"von Sandberg bis Tetjeweg"},{"id":81,"strid":2478,"grenze":"Bahnlinie OL-Leer bis Tannenkampweg"},{"id":82,"strid":2478,"grenze":"bis Bahnlinie OL-Leer"},{"id":83,"strid":2484,"grenze":"ab Elmendorfer Damm bis Altenkamp"},{"id":84,"strid":2484,"grenze":"bis Elmendorfer Damm"},{"id":85,"strid":2548,"grenze":"von Hermann-Ehlers-Str. bis Bahnlinie OL-Leer"},{"id":86,"strid":2548,"grenze":"von Woldlinie bis Bahnlinie OL-Leer"}]
+[
+	{ "id": 1, "strid": 103, "grenze": "von Moosbrooksweg bis Kuhlenstr." },
+	{ "id": 2, "strid": 103, "grenze": "von Moosbrooksweg bis Westerloy" },
+	{ "id": 3, "strid": 103, "grenze": "von Westerloy bis Klampen" },
+	{ "id": 4, "strid": 328, "grenze": "Apermarsch" },
+	{ "id": 5, "strid": 328, "grenze": "OT Godensh. Weg" },
+	{ "id": 6, "strid": 328, "grenze": "von Aperb. Str. bis Godensh. Str." },
+	{ "id": 7, "strid": 398, "grenze": "OT Aperberg" },
+	{ "id": 8, "strid": 398, "grenze": "von Ammerlandstr. bis Kirchweg" },
+	{ "id": 9, "strid": 398, "grenze": "von J\u00fcckenweg bis Nordloh" },
+	{ "id": 10, "strid": 444, "grenze": "bis Industriestr." },
+	{ "id": 11, "strid": 444, "grenze": "Husb\u00e4ke, bis Industriestr." },
+	{ "id": 12, "strid": 458, "grenze": "Augustfehn I / Vreschen-Bokel" },
+	{ "id": 13, "strid": 458, "grenze": "Godensholt" },
+	{ "id": 14, "strid": 530, "grenze": "Friedrichsfehn" },
+	{ "id": 15, "strid": 530, "grenze": "Jeddeloh II, Klein Scharrel" },
+	{
+		"id": 16,
+		"strid": 539,
+		"grenze": "Bahnlinie OL-Leer bis Hermann-Ehlers-Str."
+	},
+	{ "id": 17, "strid": 539, "grenze": "Mittellinie bis Bahnlinie OL-Leer" },
+	{ "id": 18, "strid": 632, "grenze": "Holtkamp bis Edewechter Str." },
+	{ "id": 19, "strid": 632, "grenze": "Querenst. Str. bis Holtkamp" },
+	{
+		"id": 20,
+		"strid": 722,
+		"grenze": "v. Friedrichsfehner Str. bis Ziegelweg"
+	},
+	{ "id": 21, "strid": 722, "grenze": "v. Ziegelweg bis Schafdamm" },
+	{ "id": 22, "strid": 735, "grenze": "ab Bahnlinie OL-Leer" },
+	{ "id": 23, "strid": 735, "grenze": "bis Bahnlinie OL-Leer" },
+	{
+		"id": 24,
+		"strid": 877,
+		"grenze": "Bahnlinie OL-Leer bis Oldenburger Str."
+	},
+	{ "id": 25, "strid": 877, "grenze": "Woldlinie bis Bahnlinie OL-Leer" },
+	{ "id": 26, "strid": 918, "grenze": "Ofen-Brokhausen" },
+	{ "id": 27, "strid": 918, "grenze": "Petersfehn I" },
+	{ "id": 28, "strid": 995, "grenze": "OT Godensh. Weg" },
+	{ "id": 29, "strid": 995, "grenze": "von Osterende bis Ammerlandstr." },
+	{ "id": 30, "strid": 999, "grenze": "Nord-Edewecht I" },
+	{ "id": 31, "strid": 999, "grenze": "S\u00fcddorf, Osterscheps" },
+	{ "id": 32, "strid": 1009, "grenze": "Grenzweg bis L\u00f6neborger Damm" },
+	{
+		"id": 33,
+		"strid": 1009,
+		"grenze": "L\u00fcneborger Damm bis An den K\u00e4mpen"
+	},
+	{ "id": 34, "strid": 1046, "grenze": "Bachmannsweg bis Barkenmoor" },
+	{ "id": 35, "strid": 1046, "grenze": "v. Barkenmoor bis Falkenweg" },
+	{ "id": 36, "strid": 1103, "grenze": "ab Hullmannweg" },
+	{ "id": 37, "strid": 1103, "grenze": "Apen-Ort u. Espern" },
+	{ "id": 38, "strid": 1103, "grenze": "bis Hullmannweg" },
+	{ "id": 39, "strid": 1103, "grenze": "Hengstforde" },
+	{ "id": 40, "strid": 1103, "grenze": "Holtgast" },
+	{ "id": 41, "strid": 1103, "grenze": "OT Klampen" },
+	{
+		"id": 42,
+		"strid": 1179,
+		"grenze": "von Bahnlinie OL-Leer bis Am Moordamm"
+	},
+	{
+		"id": 43,
+		"strid": 1179,
+		"grenze": "von Oldenburger Str. bis Bahnlinie OL-Leer"
+	},
+	{ "id": 44, "strid": 1216, "grenze": "Bachstelzenweg bis Elmend. Str." },
+	{ "id": 45, "strid": 1216, "grenze": "Dreiberger Str. bis Bachstelzenweg" },
+	{ "id": 46, "strid": 1451, "grenze": "Delfsh\u00f6rn bis Logemanns Damm" },
+	{ "id": 47, "strid": 1451, "grenze": "Logemanns Damm bis Oldenburger Str." },
+	{ "id": 48, "strid": 1460, "grenze": "Altenkamp, Ohrwegerfeld" },
+	{
+		"id": 49,
+		"strid": 1460,
+		"grenze": "Ohrwege, Querenstede, D\u00e4nikhorst"
+	},
+	{
+		"id": 50,
+		"strid": 1527,
+		"grenze": "v. Bachmannsw./Husb. b. Edammer Str./S\u00fcddorf"
+	},
+	{
+		"id": 51,
+		"strid": 1527,
+		"grenze": "v. Scharreler D. bis Bachmannsweg Husb\u00e4ke"
+	},
+	{
+		"id": 52,
+		"strid": 1527,
+		"grenze": "v. Scharreler Damm bis Oldenburger Str."
+	},
+	{ "id": 53, "strid": 1549, "grenze": "M\u00fchlenstr. bis Eyhauser Allee" },
+	{ "id": 54, "strid": 1549, "grenze": "M\u00fchlenstr. bis Peterstr." },
+	{ "id": 55, "strid": 1551, "grenze": "Godensholt" },
+	{ "id": 56, "strid": 1551, "grenze": "Nordloh" },
+	{ "id": 57, "strid": 1554, "grenze": "von Autobahn bis Langebr\u00fcgge" },
+	{ "id": 58, "strid": 1554, "grenze": "von Autobahn bis Neuenburger Str." },
+	{ "id": 59, "strid": 1611, "grenze": "Ihorst" },
+	{ "id": 60, "strid": 1611, "grenze": "Ort, Westerstederfeld, Halstrup" },
+	{ "id": 61, "strid": 1856, "grenze": "von Ammerlandallee bis Vogelpark" },
+	{ "id": 62, "strid": 1856, "grenze": "von Vogelpark bis Stubberei" },
+	{
+		"id": 63,
+		"strid": 1857,
+		"grenze": "ab Industriestra\u00dfe Richtung Jeddeloh"
+	},
+	{
+		"id": 64,
+		"strid": 1857,
+		"grenze": "Hauptstra\u00dfe bis Einm\u00fcndung Industriestra\u00dfe"
+	},
+	{ "id": 65, "strid": 1858, "grenze": "Am hogen Hagen bis Wiefelst. Str." },
+	{ "id": 66, "strid": 1858, "grenze": "Feldlinie bis Wiefelsteder Str." },
+	{ "id": 67, "strid": 1859, "grenze": "Borbecker Weg bis Schlo\u00dfstr." },
+	{ "id": 68, "strid": 1859, "grenze": "OL bis Borbecker Weg" },
+	{ "id": 69, "strid": 1859, "grenze": "Schlo\u00dfstr. bis Auf der Raade" },
+	{ "id": 70, "strid": 1859, "grenze": "Wilhelmsh. Str. bis Auf der Raade" },
+	{ "id": 71, "strid": 2059, "grenze": "Augustfehn I / Vreschen Bokel" },
+	{ "id": 72, "strid": 2059, "grenze": "Nordloh-Kanal/Hengstforderfeld" },
+	{ "id": 73, "strid": 2066, "grenze": "Mansholt" },
+	{ "id": 74, "strid": 2066, "grenze": "Wiefelstede/Holler Moor" },
+	{ "id": 75, "strid": 2160, "grenze": "Torsholt, Gie\u00dfelhorst" },
+	{ "id": 76, "strid": 2160, "grenze": "Westerstede Ort" },
+	{ "id": 77, "strid": 2253, "grenze": "von Birkenstr. bis Bahn\u00fcbergang" },
+	{
+		"id": 78,
+		"strid": 2253,
+		"grenze": "von Birkenstra\u00dfe bis Gemeindegrenze am Uhlenmeer"
+	},
+	{ "id": 79, "strid": 2356, "grenze": "von Oldenburger Str. bis Sandberg" },
+	{ "id": 80, "strid": 2356, "grenze": "von Sandberg bis Tetjeweg" },
+	{ "id": 81, "strid": 2478, "grenze": "Bahnlinie OL-Leer bis Tannenkampweg" },
+	{ "id": 82, "strid": 2478, "grenze": "bis Bahnlinie OL-Leer" },
+	{ "id": 83, "strid": 2484, "grenze": "ab Elmendorfer Damm bis Altenkamp" },
+	{ "id": 84, "strid": 2484, "grenze": "bis Elmendorfer Damm" },
+	{
+		"id": 85,
+		"strid": 2548,
+		"grenze": "von Hermann-Ehlers-Str. bis Bahnlinie OL-Leer"
+	},
+	{ "id": 86, "strid": 2548, "grenze": "von Woldlinie bis Bahnlinie OL-Leer" }
+]

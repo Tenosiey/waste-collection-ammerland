@@ -1,1 +1,15 @@
-[{"id":1,"art":1,"bez":"Altmedikamente"},{"id":2,"art":1,"bez":"Farben"},{"id":3,"art":1,"bez":"L\u00f6semittel"},{"id":4,"art":1,"bez":"\u00d6lverschmutzte Abf\u00e4lle"},{"id":5,"art":1,"bez":"Leuchtstoffr\u00f6hren, Energiesparlampen"},{"id":6,"art":1,"bez":"Lightcycle Sammelstelle"},{"id":7,"art":1,"bez":"Chemikalien"},{"id":8,"art":1,"bez":"Pflanzenschutzmittel"},{"id":9,"art":2,"bez":"Gelbe S\u00e4cke"},{"id":10,"art":3,"bez":"Restm\u00fclls\u00e4cke"},{"id":11,"art":3,"bez":"Gartenabfalls\u00e4cke"},{"id":12,"art":3,"bez":"Sperrm\u00fclls\u00e4cke"},{"id":13,"art":4,"bez":"Glascontainer"}]
+[
+	{ "id": 1, "art": 1, "bez": "Altmedikamente" },
+	{ "id": 2, "art": 1, "bez": "Farben" },
+	{ "id": 3, "art": 1, "bez": "L\u00f6semittel" },
+	{ "id": 4, "art": 1, "bez": "\u00d6lverschmutzte Abf\u00e4lle" },
+	{ "id": 5, "art": 1, "bez": "Leuchtstoffr\u00f6hren, Energiesparlampen" },
+	{ "id": 6, "art": 1, "bez": "Lightcycle Sammelstelle" },
+	{ "id": 7, "art": 1, "bez": "Chemikalien" },
+	{ "id": 8, "art": 1, "bez": "Pflanzenschutzmittel" },
+	{ "id": 9, "art": 2, "bez": "Gelbe S\u00e4cke" },
+	{ "id": 10, "art": 3, "bez": "Restm\u00fclls\u00e4cke" },
+	{ "id": 11, "art": 3, "bez": "Gartenabfalls\u00e4cke" },
+	{ "id": 12, "art": 3, "bez": "Sperrm\u00fclls\u00e4cke" },
+	{ "id": 13, "art": 4, "bez": "Glascontainer" }
+]

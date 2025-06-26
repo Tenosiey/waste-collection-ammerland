@@ -6,20 +6,20 @@ The original response (`awbapp.json`) is delivered by the app as a single JSON s
 
 ## Structure of the JSON Parts
 
-| Part | Description |
-|------|-------------|
-| **part1.json** | List of streets. Each object contains `id`, `ortid` (town identifier), `bez` (street name) and helper fields such as `abc`. |
-| **part2.json** | Sections for some streets. Every item has `id`, `strid` (street id) and `grenze` describing the section boundary. |
-| **part3.json** | Additional street sections used by the app. The format mirrors `part2.json`. |
-| **part4.json** | Yearly waste schedule per street or section. Fields include `resttag`, `biotag`, `werttag` and flags like `restgu`, `biogu`, `wertgu`. `papier` links to paper collection dates in part6. `jahr` stores the two-digit year (e.g. `18` for 2018). |
-| **part5.json** | Mapping of streets to internal area codes (`ast`). |
-| **part6.json** | Daily reference table from `2018-01-01` to `2024-12-31`. Each entry contains a date (`datum`) and attributes: `gu` (even/odd week), `vier` (four‑weekly flag) and a `papier` id pointing to the paper collection plan. The last record is `{ "datum": "2024-12-31", "gu": true, "vier": true, "papier": 18 }`. After this date no further entries exist in the dataset. |
-| **part7.json** | Dates for bulky‑waste collection per town (`ortid`). |
-| **part8.json** | Additional single dates per town, for example hazardous waste events. |
-| **part9.json** | Holiday adjustments. `datum` is a holiday and `fdatum` is the shifted collection date. |
-| **part10.json** | Points of interest such as recycling centers. Each item holds location coordinates. |
-| **part11.json** | Waste categories used by the app. |
-| **part12.json** | Relations between points of interest. |
+| Part            | Description                                                                                                                                                                                                                                                                                                                                                             |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **part1.json**  | List of streets. Each object contains `id`, `ortid` (town identifier), `bez` (street name) and helper fields such as `abc`.                                                                                                                                                                                                                                             |
+| **part2.json**  | Sections for some streets. Every item has `id`, `strid` (street id) and `grenze` describing the section boundary.                                                                                                                                                                                                                                                       |
+| **part3.json**  | Additional street sections used by the app. The format mirrors `part2.json`.                                                                                                                                                                                                                                                                                            |
+| **part4.json**  | Yearly waste schedule per street or section. Fields include `resttag`, `biotag`, `werttag` and flags like `restgu`, `biogu`, `wertgu`. `papier` links to paper collection dates in part6. `jahr` stores the two-digit year (e.g. `18` for 2018).                                                                                                                        |
+| **part5.json**  | Mapping of streets to internal area codes (`ast`).                                                                                                                                                                                                                                                                                                                      |
+| **part6.json**  | Daily reference table from `2018-01-01` to `2024-12-31`. Each entry contains a date (`datum`) and attributes: `gu` (even/odd week), `vier` (four‑weekly flag) and a `papier` id pointing to the paper collection plan. The last record is `{ "datum": "2024-12-31", "gu": true, "vier": true, "papier": 18 }`. After this date no further entries exist in the dataset. |
+| **part7.json**  | Dates for bulky‑waste collection per town (`ortid`).                                                                                                                                                                                                                                                                                                                    |
+| **part8.json**  | Additional single dates per town, for example hazardous waste events.                                                                                                                                                                                                                                                                                                   |
+| **part9.json**  | Holiday adjustments. `datum` is a holiday and `fdatum` is the shifted collection date.                                                                                                                                                                                                                                                                                  |
+| **part10.json** | Points of interest such as recycling centers. Each item holds location coordinates.                                                                                                                                                                                                                                                                                     |
+| **part11.json** | Waste categories used by the app.                                                                                                                                                                                                                                                                                                                                       |
+| **part12.json** | Relations between points of interest.                                                                                                                                                                                                                                                                                                                                   |
 
 ## 2025 Update
 
@@ -28,4 +28,3 @@ The daily reference table in `part6.json` ends on 2024‑12‑31. From 2025 onwa
 ## Example Usage
 
 `main.py` demonstrates how the data was originally processed. It downloads `awbapp.json`, splits the blocks, and lets a user select a street to view upcoming collection dates. The script converts recurring patterns (such as two‑week or four‑week schedules) into specific calendar dates and can export them as an `.ics` file.
-
